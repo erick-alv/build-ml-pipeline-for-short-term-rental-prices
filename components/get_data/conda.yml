@@ -9,5 +9,6 @@ dependencies:
   - pip:
       - mlflow==2.14.3
       - wandb==0.17.5
+      - git+https://github.com/erick-alv/build-ml-pipeline-for-short-term-rental-prices.git#egg=wandb-utils&subdirectory=components
 
       
