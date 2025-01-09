@@ -341,7 +341,7 @@ with the cleaned data:
    ```yaml
    dependencies:
      - pip=23.3.1
-     - pandas=2.1.3
+     - pandas=2.2.3
      - pip:
          - mlflow==2.8.1
          - wandb==0.16.0
